@@ -57,10 +57,10 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 |---|---|
 | [@vnepogodin](https://github.com/vnepogodin) | 46 |
 | [@sirlucjan](https://github.com/sirlucjan) | 8 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 2 |
 | [@MintJapan](https://github.com/MintJapan) | 2 |
 | [@CGH0S7](https://github.com/CGH0S7) | 1 |
 | [@galpt](https://github.com/galpt) | 1 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 1 |
 | [@julionc](https://github.com/julionc) | 1 |
 | [@michaelr0](https://github.com/michaelr0) | 1 |
 | [@compulsions](https://github.com/compulsions) | 1 |
